@@ -7,9 +7,11 @@
     "@material-ui/icons": "^3.0.1",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
+    "react-google-maps": "^9.4.5",
     "react-redux": "^5.0.7",
     "react-scripts": "2.0.5",
     "react-toastify": "^4.4.0",
+    "recompose": "^0.30.0",
     "redux": "^4.0.1",
     "redux-saga": "^0.16.2"
   },

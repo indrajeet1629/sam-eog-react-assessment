@@ -1,5 +1,5 @@
 import * as actions from "../actions";
-
+// Initial State's are following.
 const initialState = {
   loading: false,
   weatherId: null,
